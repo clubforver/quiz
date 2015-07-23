@@ -1,0 +1,7 @@
+CREATE TABLE user
+(
+
+username varchar(255),
+Pwd varchar(255),
+PRIMARY KEY (username)
+)
